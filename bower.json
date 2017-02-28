@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-switch",
-  "description": "Turn checkboxes and radio buttons into toggle switches.",
+  "name": "bootstrap-switch-jquery",
+  "description": "Turn checkboxes and radio buttons into toggle switches (compatible with jquery>=1.9).",
   "license": "Apache-2.0",
   "main": [
     "./dist/js/bootstrap-switch.js",
@@ -17,6 +17,6 @@
   ],
   "dependencies": {
     "bootstrap": ">=2.3.2",
-    "jquery": "~1.9.0"
+    "jquery": ">=1.9.0"
   }
 }
